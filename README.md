@@ -1,4 +1,2 @@
 # Voxdo
-My voxel engine written in Godot
-
-I'll write this later. somebody remind me
+A horrible GDSCRIPT micro voxel engine. Runs at the speed of molasses in the winter. Do not use. lol
